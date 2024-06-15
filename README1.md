@@ -4,8 +4,7 @@
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-blue?logo=seaborn&logoColor=white&style=for-the-badge)
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0CEEKtXoRAs03ZPC660df0vQmFMTI49kdhA&s" alt="Statsmodels" width="150">
-<img src="
-https://repository-images.githubusercontent.com/400528139/1af59e40-a8c4-4791-8450-1736829ba25c" alt="ETNA" width="60">
+<img src="https://repository-images.githubusercontent.com/400528139/1af59e40-a8c4-4791-8450-1736829ba25c" alt="ETNA" width="60">
 <img src="https://media.licdn.com/dms/image/C5612AQGOX3Bpav4kMg/article-cover_image-shrink_600_2000/0/1602915913499?e=2147483647&v=beta&t=diGK4nPQDE0NgOHtPthU6-LMQ-a5C60x1q16HDCEIv0" alt="Catboost" width="100">
 ## Главными целями данного исследования являются:
 
